@@ -4,9 +4,10 @@ A web-based dashboard for exploring and comparing key development indicators acr
 
 This project provides an interactive tool to analyze the economic and social landscape of Europe. The data is fetched in real-time, ensuring that the insights are always based on the most current information available.
 
-### [**Dashboard**](https://your-europe-dashboard-url.onrender.com/)
+### [**Dashboard**](https://europe-development-visualizer.onrender.com)
 
-![Placeholder Screenshot](https://placehold.co/764x385/060606/45b1e8?text=Europe+Dashboard+Screenshot)
+<img width="2530" height="1286" alt="image" src="https://github.com/user-attachments/assets/c5bf721a-5c62-4c85-b601-b18f32664c3d" />
+
 
 ---
 
@@ -15,8 +16,7 @@ The application features a modern, dark-themed user interface, designed for intu
 ## Features
 
 * **Live Data Integration:** Direct connection to the World Bank API ensures up-to-date information.
-* **Interactive Controls:** Dynamically filter by indicator, select multiple countries, and adjust the time range for analysis.
-* **Comprehensive Visualizations:**
+* **Interactive Controls:** Dynamically filter by indicator, select multiple countries, and adjust the time range for analysis with comprehensive visualizations:
     * **Line Chart:** Track the historical evolution of any indicator.
     * **Bar Chart:** Compare the latest available data point across different countries.
     * **Choropleth Map:** Visualize the geographical distribution of an indicator across the continent.
@@ -28,19 +28,19 @@ The application features a modern, dark-themed user interface, designed for intu
 
 This application is deployed and publicly available via **Render**, a cloud platform for building and running web applications. The deployment is automated from the GitHub source code, using a Gunicorn server to ensure robust and scalable performance.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Backend & Visualization:**
-    * [Dash](https://dash.plotly.com/): The core framework for building the web application.
-    * [Plotly Express](https://plotly.com/python/plotly-express/): For creating interactive, high-quality charts.
-    * [Pandas](https://pandas.pydata.org/): For data manipulation and processing.
-    * [Requests](https://requests.readthedocs.io/en/latest/): For making HTTP requests to the World Bank API.
+    * Dash: The core framework for building the web application.
+    * Plotly Express: For creating interactive, high-quality charts.
+    * Pandas: For data manipulation and processing.
+    * Requests: For making HTTP requests to the World Bank API.
 * **Frontend & Design:**
-    * [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/): For responsive layouts and modern UI components.
-    * [Bootstrap Icons](https://icons.getbootstrap.com/): For icons used throughout the interface.
+    * Dash Bootstrap Components: For responsive layouts and modern UI components.
+    * Bootstrap Icons: For icons used throughout the interface.
 
 ## Author
 
-Developed by **Ricardo Urdaneta**.
+**Ricardo Urdaneta**.
 
 [**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro)
