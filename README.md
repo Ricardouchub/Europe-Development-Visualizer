@@ -15,7 +15,7 @@ The application features a modern, dark-themed user interface, designed for intu
 
 ## Features
 
-* **Live Data Integration:** Direct connection to the World Bank API ensures up-to-date information.
+* **Live Data:** Direct connection to the World Bank API ensures up-to-date information.
 * **Interactive Controls:** Dynamically filter by indicator, select multiple countries, and adjust the time range for analysis with comprehensive visualizations:
     * **Line Chart:** Track the historical evolution of any indicator.
     * **Bar Chart:** Compare the latest available data point across different countries.
