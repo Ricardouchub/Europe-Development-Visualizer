@@ -28,7 +28,7 @@ The application features a modern, dark-themed user interface, designed for intu
 
 This application is deployed and publicly available via **Render**, a cloud platform for building and running web applications. The deployment is automated from the GitHub source code, using a Gunicorn server to ensure robust and scalable performance.
 
-## Tech Stack
+## Tools
 
 * **Backend & Visualization:**
     * Dash: The core framework for building the web application.
