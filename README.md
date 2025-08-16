@@ -1,5 +1,13 @@
 # Europe Development Visualizer
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Project_Completed-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Project Completed"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/GeoPandas-Geolocation-2A7F62?style=flat-square&logo=geopandas&logoColor=white" alt="GeoPandas"/>
+  <img src="https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Dash-Dashboard-119DFF?style=flat-square&logo=dash&logoColor=white" alt="Dash"/>
+</p>
+
 A web-based dashboard for exploring and comparing key development indicators across European nations, powered by live data from the World Bank API.
 
 This project provides an interactive tool to analyze the economic and social landscape of Europe. The data is fetched in real-time, ensuring that the insights are always based on the most current information available.
