@@ -28,8 +28,7 @@ The application features a modern, dark-themed user interface, designed for intu
     * **Line Chart:** Track the historical evolution of any indicator.
     * **Bar Chart:** Compare the latest available data point across different countries.
     * **Choropleth Map:** Visualize the geographical distribution of an indicator across the continent.
-* **Detailed KPIs:** Get instant insights for a selected country, including its latest value, year-over-year change, compound annual growth rate (CAGR), and regional ranking.
-* **Modern & Responsive Design:** A professional, dark interface built with Dash Bootstrap Components that adapts to any screen size.
+* **KPIs:** Get instant insights for a selected country, including its latest value, year-over-year change, compound annual growth rate (CAGR), and regional ranking.
 * **Data Export:** Download the raw data for the selected indicator as a CSV file with a single click.
 
 ## Deployment
