@@ -12,9 +12,13 @@ A web-based dashboard for exploring and comparing key development indicators acr
 
 This project provides an interactive tool to analyze the economic and social landscape of Europe. The data is fetched in real-time, ensuring that the insights are always based on the most current information available.
 
-### [**Dashboard**](https://europe-development-visualizer.onrender.com)
 
-<img width="2530" height="1286" alt="image" src="https://github.com/user-attachments/assets/c5bf721a-5c62-4c85-b601-b18f32664c3d" />
+<p align="center">
+  <a href="https://europe-development-visualizer.onrender.com" target="_blank" rel="noopener noreferrer">
+    <img width="455" height="502" alt="image" src="https://github.com/user-attachments/assets/3f1f0a65-4ffd-4f69-8ddc-105466efb5c7" />
+  </a>
+</p>
+
 
 
 ---
@@ -45,6 +49,11 @@ This application is deployed and publicly available via **Render**, a cloud plat
 * **Frontend & Design:**
     * Dash Bootstrap Components: For responsive layouts and modern UI components.
     * Bootstrap Icons: For icons used throughout the interface.
+
+## Dashboard Visualization
+
+<img width="2530" height="1286" alt="image" src="https://github.com/user-attachments/assets/c5bf721a-5c62-4c85-b601-b18f32664c3d" />
+
 
 ## Author
 
