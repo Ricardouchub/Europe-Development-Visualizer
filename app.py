@@ -10,7 +10,7 @@ import requests
 from functools import lru_cache
 
 # ============================
-# 1) APP CONFIGURATION & DATA
+# APP CONFIGURATION & DATA
 # ============================
 
 app = dash.Dash(__name__,
@@ -116,7 +116,7 @@ def format_value(indicator_name, v):
     return f"{v:,.2f}"
 
 # ============================
-# 2) LAYOUT
+# LAYOUT
 # ============================
 brand = dbc.Navbar(
     dbc.Container([
@@ -244,7 +244,7 @@ app.layout = dbc.Container([
 ], fluid=True)
 
 # ============================
-# 3) CALLBACKS
+# CALLBACKS
 # ============================
 
 @app.callback(
@@ -376,7 +376,7 @@ def update_map_chart(indicator, year_range):
     return fig
 
 # ============================
-# 4) RUN APP
+# RUN APP
 # ============================
 if __name__ == '__main__':
     app.run(debug=True)
