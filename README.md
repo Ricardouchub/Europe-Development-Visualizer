@@ -50,7 +50,7 @@ This application is deployed and publicly available via **Render**, a cloud plat
     * Dash Bootstrap Components: For responsive layouts and modern UI components.
     * Bootstrap Icons: For icons used throughout the interface.
 
-## Dashboard Screenshot
+## Screenshot
 
 <img width="2530" height="1286" alt="image" src="https://github.com/user-attachments/assets/c5bf721a-5c62-4c85-b601-b18f32664c3d" />
 
